@@ -21,6 +21,6 @@ prev_outcome: outcome of the previous marketing campaign (categorical: "unknown"
 Output variable (desired target):
 y - has the client subscribed to the insurance?
 
-**
-Minimum Requirements:**
+
+Minimum Requirements:
 It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the conversion rate. F1-Score must be used as a metric to evaluate the performance of the models. 
